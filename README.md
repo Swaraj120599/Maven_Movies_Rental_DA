@@ -5,6 +5,7 @@ Explore the rental inventory and classify movies based on rental rates and avail
 Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
 
 Operational Efficiency:
+
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 
