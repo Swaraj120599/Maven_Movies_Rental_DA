@@ -1,14 +1,18 @@
 # Maven_Movies_Rental_DA
 
+# Project Overview:
 Explore the rental inventory and classify movies based on rental rates and availability. Provide recommendations for expanding the movie collection based on popularity and rental rates. Revenue Optimization:
 
 Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
 
-Operational Efficiency:
+# Operational Efficiency:
 
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
+# Tools & Library Used
 
+
+# Query Task
 
 1.How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?
 
