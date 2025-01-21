@@ -5,6 +5,16 @@ Explore the rental inventory and classify movies based on rental rates and avail
 
 Analyze rental rates to identify trends and the profitability of various pricing categories. Determine the most rented movie categories and ratings to maximize revenue.
 
+# Project Objective:
+1.Learning SQL Fundamentals: Practice basic SQL queries such as SELECT, INSERT, UPDATE, and DELETE. Understand the structure of relational databases and the importance of data integrity.
+
+2.Understanding Relationships: Explore how tables in a relational database are connected through primary and foreign keys. Learn to join tables to retrieve related data from multiple tables.
+
+3.Demonstrating Data Management: Simulate real-world scenarios such as managing customer orders, tracking product inventory, and handling payments. Understand the role of each entity in a typical business database model.
+
+4.Performance Optimization: Practice writing efficient SQL queries to retrieve data quickly and accurately. Learn about indexing, data normalization, and other optimization techniques.
+
+Tools & Library Used
 # Operational Efficiency:
 
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
