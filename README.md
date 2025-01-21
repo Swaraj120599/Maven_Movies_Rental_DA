@@ -20,6 +20,7 @@ Tools & Library Used
 Help track and manage movie inventory effectively. Highlight gaps in the inventory and optimize stock levels.
 
 # Tools & Library Used
+![image](https://github.com/user-attachments/assets/b5346e75-12f7-42b6-83d9-655d4cabc538)
 
 
 # Query Task
